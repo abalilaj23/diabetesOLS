@@ -1,4 +1,4 @@
-Diabetes Progression Predictor
+      Diabetes Progression Predictor
 
 Diabetes is a chronic disease that alters how the body turns food into energy. Food is normally broken down into simple sugars (glucose) and released into the bloodstream. Insulin (a hormone made by the pancreas) helps the glucose pass from the bloodstream into the cells. In diabetic patients, the pancreas can no longer make insulin or cannot adequately use the insulin it does produce. Without careful management, diabetes can lead to dangerous complications.
 
